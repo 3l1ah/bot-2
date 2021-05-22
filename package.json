@@ -1,0 +1,19 @@
+{
+  "name": "bot-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.0",
+    "chalk": "^4.1.1",
+    "discord-tictactoe": "^2.1.0",
+    "discord-xp": "^1.1.14",
+    "discord.js": "^12.5.3"
+  }
+}
